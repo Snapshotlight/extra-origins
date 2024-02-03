@@ -14,7 +14,7 @@
   "power.extraorigins.photosynthesis.name": "光合作用",
   "power.extraorigins.photosynthesis.description": "在阳光下，你会逐渐感觉到饱腹。",
   "power.extraorigins.absorbing.name": "吸水",
-  "power.extraorigins.absorbing.description": "在水中时，你将会获得2点额外攻击力加成。",
+  "power.extraorigins.absorbing.description": "当潮湿时，你可造成额外2点伤害。",
   "power.extraorigins.flammable.name": "易燃",
   "power.extraorigins.flammable.description": "你将会受到双倍的火焰伤害。",
   "power.extraorigins.nectarivore.name": "食蜜者",
