@@ -9,6 +9,8 @@
   "origin.extraorigins.inchling.description": "一种人类的亚种，体格极小。它们利用矮小的体格来躲避攻击，并在狭小的空间中穿梭。",
   "origin.extraorigins.piglin.name": "猪灵族",
   "origin.extraorigins.piglin.description": "猪灵族来自下界，它们喜欢黄金，同时也擅长利用黄金。",
+  "origin.extraorigins.nucleon.name": "核子",
+  "origin.extraorigins.nucleon.description": "以原子核命名的种族。核子相当难以预测，具有一系列不断变化的能力。",
   "power.extraorigins.absorbing.name": "吸水",
   "power.extraorigins.absorbing.description": "在水中你会获得力量效果。",
   "power.extraorigins.flammable.name": "易燃",
@@ -22,7 +24,7 @@
   "power.extraorigins.decomposition.name": "分解",
   "power.extraorigins.decomposition.description": "食物在消化前就会被你分解，因此食物所提供的状态效果会失效。",
   "power.extraorigins.magic_spores.name": "魔法孢子",
-  "power.extraorigins.magic_spores.description": "你可以切换到不同种类的魔法孢子。红色孢子增加攻击力，绿色孢子增加护甲值，蓝色孢子可以增加速度。切换孢子时会降低其他两个孢子提供的属性加成。",
+  "power.extraorigins.magic_spores.description": "你可以切换到不同种类的魔法孢子。红色孢子增加攻击力，绿色孢子增加护甲值，蓝色孢子增加速度。切换孢子时会降低其他两个孢子提供的属性加成。",
   "power.extraorigins.infestation.name": "侵染",
   "power.extraorigins.infestation.description": "你可以通过消耗饥饿值来将固体方块变为菌丝。",
   "power.extraorigins.rooted.name": "扎根",
@@ -49,4 +51,7 @@
   "power.extraorigins.homesick.description": "当不在下界时，你将会僵尸化，成为亡灵生物并免疫火焰，但会变虚弱。吃下金质食物可以延缓这一效果一小会。",
   "power.extraorigins.soul_spooked.name": "惊魂",
   "power.extraorigins.soul_spooked.description": "你害怕灵魂火，靠近时会虚弱。"
+  "power.extraorigins.radioactive.name": "放射性",
+  "power.extraorigins.radioactive.description": "你拥有3个随机的能力，每个能力都会在一段特定时间后衰变为新的能力。",
+  "origins.gui.impact.very_high": "非常高"
 }
